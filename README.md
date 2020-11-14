@@ -8,7 +8,7 @@ The final output of the code from Google Colab, is a Carto map that shows 3 diff
 
 Link to Carto map: https://chikondi1.carto.com/builder/fe237342-fa30-4f68-a28b-3ab9174d3884/embed
 
->(images/lab4_carto)
+>![](images/lab4_carto)
 
 
 # Citation

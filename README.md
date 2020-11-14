@@ -12,4 +12,4 @@ Link to Carto map: https://chikondi1.carto.com/builder/fe237342-fa30-4f68-a28b-3
 
 
 # Citation
-The tutorial was adapted from [Nicole Janeway Bills](https://twitter.com/nicole_janeway), who provides a nice [video walkthrough on YouTube here](https://www.youtube.com/watch?v=b9G2T4CPYVM&feature=emb_logo). 
+The tutorial was adapted from [Nicole Janeway Bills](https://twitter.com/nicole_janeway). Here is a [video walkthrough on YouTube](https://www.youtube.com/watch?v=b9G2T4CPYVM&feature=emb_logo). 
